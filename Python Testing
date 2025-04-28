@@ -1,0 +1,6 @@
+if __name__ == "__main__":
+    from RPS_game import play, quincy  # Ensure quincy is a defined opponent.
+    
+    # Test against one of the bots
+    result = play(player, quincy, 1000, verbose=True)
+    print(result)
