@@ -1,4 +1,6 @@
-# Rock Paper Scissors Challenge README
+````markdown
+
+# Rock Paper Scissors Challenge
 
 ## Overview
 This project consists of implementing a strategy for the classic game of Rock, Paper, Scissors against four different bots. Your objective is to create a player function in `RPS.py` that wins at least 60% of matches against each bot. The project is designed to enhance your understanding of programming concepts, strategy development, and possibly basic elements of machine learning.
